@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\databaseview.o
+./release\mainwindow.o
+./release\sqlrelationaltablemodel.o
+./release\sqlrelationaldelegate.o
+./release\newuserdialog.o
+./release\qrc_spreadsheet.o
+./release\moc_mainwindow.o
+./release\moc_databaseview.o
+./release\moc_sqlrelationaltablemodel.o
+./release\moc_sqlrelationaldelegate.o
+./release\moc_newuserdialog.o
+);

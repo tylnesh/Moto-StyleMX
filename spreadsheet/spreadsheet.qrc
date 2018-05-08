@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>assets/images/fmr.png</file>
+    <file>assets/images/moto.png</file>
+    <file>assets/images/motofmr.png</file>
+    <file>assets/images/motostyleLogo.png</file>
+</qresource>
+</RCC>
