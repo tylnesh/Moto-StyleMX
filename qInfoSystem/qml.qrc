@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/images/fmr.png</file>
+        <file>assets/images/moto.png</file>
+        <file>assets/images/motofmr.png</file>
+        <file>assets/images/motostyleLogo.png</file>
+    </qresource>
+</RCC>
