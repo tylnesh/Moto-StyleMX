@@ -165,6 +165,8 @@ ApplicationWindow {
                 radius: 2
             }
 
+        onClicked: Animation.
+
 
 
     }
