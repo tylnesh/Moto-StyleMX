@@ -164,6 +164,8 @@ ApplicationWindow {
                 border.width: 1
                 radius: 2
             }
+            
+        onClicked: Animation.
 
 
 
