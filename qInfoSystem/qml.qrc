@@ -4,6 +4,7 @@
         <file>assets/images/fmr.png</file>
         <file>assets/images/moto.png</file>
         <file>assets/images/motofmr.png</file>
+        <file>MainWindow.qml</file>
         <file>assets/images/motostyleLogo.png</file>
-    </qresource>
+     </qresource>
 </RCC>

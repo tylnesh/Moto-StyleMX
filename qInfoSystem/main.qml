@@ -165,9 +165,12 @@ ApplicationWindow {
                 radius: 2
             }
 
-        onClicked: Animation.
-
-
+            onClicked: {
+                var component = Qt.createComponent("MainWindow.qml");
+                var window = component.createObject(main);
+                window.show();
+                main.hide();
+            }
 
     }
 
